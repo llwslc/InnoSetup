@@ -1,0 +1,88 @@
+; Copyright ?Microsoft Corp.
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=w7theme@think
+BrandImage=%SystemRoot%\Resources\Themes\w7theme@think\icons\w7theme@think.png
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\w7theme@think\icons\001.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\w7theme@think\icons\002.ico
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\w7theme@think\icons\003.ico
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\Resources\Themes\w7theme@think\icons\004.ico
+Empty=%SystemRoot%\Resources\Themes\w7theme@think\icons\005.ico
+
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\Resources\Themes\w7theme@think\cursors\AppStarting.ani
+Arrow=%SystemRoot%\Resources\Themes\w7theme@think\cursors\Arrow.cur
+Crosshair=%SystemRoot%\Resources\Themes\w7theme@think\cursors\Crosshair.cur
+Hand=%SystemRoot%\Resources\Themes\w7theme@think\cursors\Hand.cur
+Help=%SystemRoot%\Resources\Themes\w7theme@think\cursors\Help.cur
+IBeam=%SystemRoot%\Resources\Themes\w7theme@think\cursors\IBeam.cur
+No=%SystemRoot%\Resources\Themes\w7theme@think\cursors\NO.cur
+NWPen=%SystemRoot%\Resources\Themes\w7theme@think\cursors\NWPen.cur
+SizeAll=%SystemRoot%\Resources\Themes\w7theme@think\cursors\SizeAll.cur
+SizeNESW=%SystemRoot%\Resources\Themes\w7theme@think\cursors\SizeNESW.cur
+SizeNS=%SystemRoot%\Resources\Themes\w7theme@think\cursors\SizeNS.cur
+SizeNWSE=%SystemRoot%\Resources\Themes\w7theme@think\cursors\SizeNWSE.cur
+SizeWE=%SystemRoot%\Resources\Themes\w7theme@think\cursors\SizeWE.cur
+UpArrow=%SystemRoot%\Resources\Themes\w7theme@think\cursors\UpArrow.cur
+Wait=%SystemRoot%\Resources\Themes\w7theme@think\cursors\Wait.ani
+DefaultValue=w7theme@think
+Link=
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\1.jpg
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\w7theme@think\w7theme@think.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0X1AFAFAFA
+Transparency=1
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Windows д╛хо
+
+[Slideshow]
+Interval=1800000
+Shuffle=0
+ImagesRootPath=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers
+Item0Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\1.jpg
+Item1Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\2.jpg
+Item2Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\3.jpg
+Item3Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\4.jpg
+Item4Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\5.jpg
+Item5Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\6.jpg
+Item6Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\7.jpg
+Item7Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\8.jpg
+Item8Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\9.jpg
+Item9Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\10.jpg
+Item10Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\11.jpg
+Item11Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\12.jpg
+Item12Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\13.jpg
+Item13Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\14.jpg
+Item14Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\15.jpg
+Item15Path=%SystemRoot%\Resources\Themes\w7theme@think\wallpapers\16.jpg

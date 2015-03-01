@@ -1,0 +1,1 @@
+copy /y 1.jpg/b+2.txt/a ²Êµ°.jpg
