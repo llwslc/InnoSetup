@@ -1,9 +1,9 @@
 # w7theme@think
 
-Ò»¸öÍêÕûµÄwindows7Ö÷Ìâ°²×°°ü¡£
+ä¸€ä¸ªå®Œæ•´çš„windows7ä¸»é¢˜å®‰è£…åŒ…ã€‚
 
-°üÀ¨Pascal°²×°½Å±¾£¬AutoIt3½Å±¾£¬bat½Å±¾£¬vbs½Å±¾µÈ¡£»¹ÓÐÓ¦ÓÃµÄ²Êµ°¡£
+åŒ…æ‹¬Pascalå®‰è£…è„šæœ¬ï¼ŒAutoIt3è„šæœ¬ï¼Œbatè„šæœ¬ï¼Œvbsè„šæœ¬ç­‰ã€‚è¿˜æœ‰åº”ç”¨çš„å½©è›‹ã€‚
 
 
-![image](https://github.com/llwslc/InnoSetup/blob/master/w7theme@think/Output/Preview.jpg)
+![image](https://github.com/llwslc/InnoSetup/blob/master/w7theme@think/Output/Preview.png)
 
